@@ -2,7 +2,7 @@
 
 ### Hi there 👋,  I'm Mithun Chandra Dey
 #### Software Developer || Mobile Application Development (IOS and Android)|| .net Core|| Oracle||Laravel
-![Software Developer || Mobile Application Development (IOS and Android)|| .net Core|| Oracle||Laravel](https://media.licdn.com/dms/image/D5616AQF9fBLvUR9AXA/profile-displaybackgroundimage-shrink_350_1400/0/1711805659706?e=1717027200&v=beta&t=uYTATV8GoJTZmC_GjKkVhcs0qKNrYD08iHcQeSL6V7w)
+
 
 Experienced Senior Software Developer with a passion for creating innovative solutions. With over 8 years of hands-on experience in Mobile application and Backend  development, I have successfully delivered complex projects for a diverse range of clients and industries.
 I have Experience in various filed of software development -
